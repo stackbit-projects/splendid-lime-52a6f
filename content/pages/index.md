@@ -134,7 +134,7 @@ sections:
         caption: ZCOOL
     spacing: 3
     columns: 7
-    aspectRatio: 'auto'
+    aspectRatio: auto
     showCaption: false
     enableHover: false
     styles:
@@ -487,7 +487,7 @@ sections:
     form:
       type: FormBlock
       elementId: contact-form
-      destination: ''
+      destination: artem@stackbit.com
       action: /.netlify/functions/submission_created
       fields:
         - name: email
