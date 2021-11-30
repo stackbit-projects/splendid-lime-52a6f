@@ -126,9 +126,6 @@ sections:
         url: /images/Marvel_logo.png
         altText: Marvel
         caption: Marvel
-      - type: ImageBlock
-        altText: Skype
-        caption: Skype
     spacing: 3
     columns: 7
     aspectRatio: auto
