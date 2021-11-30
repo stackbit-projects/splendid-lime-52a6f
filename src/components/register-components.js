@@ -7,7 +7,6 @@ import SignUpForm from './SignUpForm';
 registerComponents({
     // Register all Stackbit components
     ...componentsMap,
-    SignupButton: SignupButton,
     SignUpForm: SignUpForm
 
     // Override any static or dynamic component,
