@@ -120,7 +120,7 @@ sections:
         caption: City
       - type: ImageBlock
         url: /images/gatsby.svg
-        altText: Gatsby
+        altText: Hidden Side
         caption: Gatsby
       - type: ImageBlock
         url: /images/xbox.svg
