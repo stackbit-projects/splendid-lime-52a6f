@@ -125,7 +125,7 @@ sections:
       - type: ImageBlock
         url: /images/Marvel_logo.png
         altText: Marvel
-        caption: Xbox
+        caption: Marvel
       - type: ImageBlock
         url: /images/skype.svg
         altText: Skype
