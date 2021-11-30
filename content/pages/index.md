@@ -123,7 +123,7 @@ sections:
         altText: Hidden Side
         caption: Hidden Side
       - type: ImageBlock
-        url: /images/xbox.svg
+        url: /images/Marvel_logo.png
         altText: Xbox
         caption: Xbox
       - type: ImageBlock
