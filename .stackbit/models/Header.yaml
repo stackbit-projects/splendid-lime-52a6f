@@ -1,6 +1,5 @@
 type: object
 name: Header
-=
 fields:
   - type: enum
     name: headerVariant
