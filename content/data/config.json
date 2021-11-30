@@ -23,7 +23,7 @@
                 "style": "primary"
             },
             {
-                "label": "Learn more",
+                "label": "SignUp",
                 "altText": "Learn more",
                 "url": "/",
                 "showIcon": false,
