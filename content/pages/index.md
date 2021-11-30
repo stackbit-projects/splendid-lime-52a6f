@@ -56,7 +56,6 @@ sections:
     actions:
       - type: Button
         label: Sign Up
-        url: /
         style: secondary
       - type: Link
         label: Watch Video
