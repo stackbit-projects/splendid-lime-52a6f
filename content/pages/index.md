@@ -121,7 +121,7 @@ sections:
       - type: ImageBlock
         url: /images/gatsby.svg
         altText: Hidden Side
-        caption: Gatsby
+        caption: Hidden Side
       - type: ImageBlock
         url: /images/xbox.svg
         altText: Xbox
