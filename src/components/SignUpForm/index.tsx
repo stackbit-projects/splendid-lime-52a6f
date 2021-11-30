@@ -1,14 +1,14 @@
 import * as React from 'react';
-// import SignupButton from '../SignupButton';
+import SignupButton from '../SignupButton';
 
-// const SignUpForm = () => {
-//     const [opened, setOpened] = React.useState(false);
+const SignUpForm = () => {
+    const [opened, setOpened] = React.useState(false);
 
-//     if (opened) {
-//         return null;
-//     } else {
-//         return <SignupButton onClick={() => setOpened(true)} />
-//     }
-// }
+    if (opened) {
+        return null;
+    } else {
+        return <SignupButton onClick={() => setOpened(true)} />
+    }
+}
 
-// export default SignUpForm;
+export default SignUpForm;
