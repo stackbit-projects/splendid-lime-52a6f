@@ -115,7 +115,7 @@ sections:
         altText: Technic
         caption: Technic
       - type: ImageBlock
-        url: /images/playstation.svg
+        url: /images/download.jpeg
         altText: PlayStation
         caption: PlayStation
       - type: ImageBlock
