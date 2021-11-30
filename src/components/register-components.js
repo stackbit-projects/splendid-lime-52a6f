@@ -4,7 +4,7 @@ import { componentsMap } from '@stackbit/components/dist/components-map';
 
 registerComponents({
     // Register all Stackbit components
-    ...SignUpButton,
+    ...componentsMap,
     SignUpButton: dynamic(() => import('./SignupButton/index.tsx'))
 
     // Override any static or dynamic component,
