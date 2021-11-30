@@ -2,22 +2,6 @@ type: object
 name: Header
 fields:
   - type: enum
-    name: headerVariant
-    group: styles
-    label: Header arrangement
-    options:
-      - label: Header with logo and primary links on the left
-        value: variant-a
-      - label: Header with logo on the left and primary links centered
-        value: variant-b
-      - label: Header with logo on the left and primary links on the right
-        value: variant-c
-      - label: Header with logo centered and primary links on the left
-        value: variant-d
-      - label: Header with logo centered and primary links centered
-        value: variant-e
-    default: variant-c
-  - type: enum
     name: primaryColors
     label: Primary colors
     group: styles
