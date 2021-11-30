@@ -487,7 +487,6 @@ sections:
     form:
       type: FormBlock
       elementId: contact-form
-      destination: artem@stackbit.com
       action: /.netlify/functions/submission_created
       fields:
         - name: email
