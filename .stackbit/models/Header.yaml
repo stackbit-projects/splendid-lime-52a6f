@@ -154,6 +154,7 @@ fields:
       models:
         - Button
         - Link
+        - SignUpButton
     default:
       - type: Link
         label: Home
@@ -171,6 +172,7 @@ fields:
       models:
         - Button
         - Link
+        - SignUpButton
     default:
       - type: Button
         label: Sign up
