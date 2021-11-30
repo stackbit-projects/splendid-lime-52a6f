@@ -116,7 +116,7 @@ sections:
         caption: Technic
       - type: ImageBlock
         url: /images/download.jpeg
-        altText: PlayStation
+        altText: City
         caption: PlayStation
       - type: ImageBlock
         url: /images/gatsby.svg
