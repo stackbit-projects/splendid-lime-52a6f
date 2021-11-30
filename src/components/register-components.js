@@ -1,7 +1,7 @@
 import dynamic from 'next/dynamic';
 import { registerComponents } from '@stackbit/components';
 import { componentsMap } from '@stackbit/components/dist/components-map';
-import SignupButton from './SignupButton/SignupButton.tsx';
+import SignupButton from './SignupButton/SignupButton';
 import SignUpForm from './SignUpForm/SignUpForm';
 
 registerComponents({
