@@ -41,7 +41,7 @@ export default function Action(props) {
     const cssId = props.elementId || null;
 
     return (
-        <Link
+        <button
             href={url}
             aria-label={altText}
             id={cssId}
