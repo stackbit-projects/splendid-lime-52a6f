@@ -42,7 +42,6 @@ export default function Action(props) {
 
     return (
         <button
-            href={url}
             aria-label={altText}
             id={cssId}
             className={classNames('sb-component', 'sb-component-block', style === 'link' ? 'sb-component-link' : 'sb-component-button', cssClasses, {
