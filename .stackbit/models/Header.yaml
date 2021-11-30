@@ -53,14 +53,6 @@ fields:
         backgroundColor: '$complementaryAlt'
         borderColor: '#ececec'
     default: colors-a
-  - type: string
-    name: title
-    label: Title
-    default: Your Brand
-  - type: boolean
-    name: isTitleVisible
-    label: Display title
-    default: true
   - type: model
     name: logo
     label: Logo
