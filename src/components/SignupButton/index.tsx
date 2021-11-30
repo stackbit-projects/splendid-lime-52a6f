@@ -10,6 +10,8 @@ import Instagram from '@stackbit/components/dist/svgs/instagram';
 import LinkedIn from '@stackbit/components/dist/svgs/linkedin';
 import Twitter from '@stackbit/components/dist/svgs/twitter';
 
+import {  } from '@stackbit/components/dist/components-map';
+
 const iconMap = {
     arrowLeft: ArrowLeft,
     arrowRight: ArrowRight,
