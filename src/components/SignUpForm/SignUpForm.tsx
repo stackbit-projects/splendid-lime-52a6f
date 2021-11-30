@@ -1,1 +1,3 @@
-import SignupButton from './SignupButton/SignupButton';
+import SignupButton from '../SignupButton/SignupButton';
+
+export defualt 
