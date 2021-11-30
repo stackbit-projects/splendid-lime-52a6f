@@ -27,6 +27,7 @@ fields:
       models:
         - Button
         - Link
+        - SignupButton
     default:
       - type: Button
         label: Sign up
