@@ -24,7 +24,7 @@
             },
             {
                 "label": "SignUp",
-                "altText": "Sign",
+                "altText": "SignUp",
                 "url": "/",
                 "showIcon": false,
                 "icon": "arrowRight",
