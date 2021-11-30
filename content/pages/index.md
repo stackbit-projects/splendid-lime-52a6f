@@ -112,7 +112,7 @@ sections:
       - type: ImageBlock
         url: >-
           /images/png-clipart-logo-brand-lego-juniors-lego-technic-lego-technic-liebherr-text-technic.png
-        altText: Google Play
+        altText: Technic
         caption: Google Play
       - type: ImageBlock
         url: /images/playstation.svg
