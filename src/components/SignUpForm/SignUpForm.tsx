@@ -1,7 +1,7 @@
 import * as React from 'react';
 import SignupButton from '../SignupButton/SignupButton';
 
-const export default = () => {
+const SignUpForm = () => {
     const [opened, setOpened] = React.useState(false);
 
     if (opened) {
@@ -11,4 +11,4 @@ const export default = () => {
     }
 }
 
-export default export default;
+export default
