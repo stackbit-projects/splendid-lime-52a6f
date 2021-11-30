@@ -215,7 +215,7 @@ function siteLogoLink(props) {
 function listOfLinks(links, inMobileMenu = false) {
     return links.map((link, index) => {
         console.log(link);
-        const Action = getComponent(link.type === 'Button' ? 'Button' : 'Action');
+        const Action = getComponent(link.type === 'SignUpButton' ? 'SignUpButton' : 'Action');
         const defaultStyle = link.type === 'Link' ? 'link' : 'secondary';
         const style = link.style || defaultStyle;
         return (
