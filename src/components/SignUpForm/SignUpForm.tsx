@@ -1,5 +1,5 @@
 import * as React from 'react';
-import SignupButton from '../SignupButton/SignupButton.ts';
+import SignupButton from '../SignupButton/SignupButton.tsx';
 
 export const SignUpForm = () => {
     const [opened, setOpened] = React.useState(false);
