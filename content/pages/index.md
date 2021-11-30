@@ -119,7 +119,7 @@ sections:
         altText: City
         caption: City
       - type: ImageBlock
-        url: /images/gatsby.svg
+        url: /images/Hidden_Side_logo.png
         altText: Hidden Side
         caption: Hidden Side
       - type: ImageBlock
