@@ -21,7 +21,7 @@ const iconMap = {
     twitter: Twitter
 };
 
-export default function Action(props) {
+export default function SignUpButton(props) {
     const { type, label, altText, url, showIcon, onClick } = props;
     const icon = props.icon || 'arrowLeft';
     const iconPosition = props.iconPosition || 'right';
