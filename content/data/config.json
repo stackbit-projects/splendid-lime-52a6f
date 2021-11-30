@@ -21,17 +21,6 @@
                 "url": "/",
                 "altText": "Sign up",
                 "style": "primary"
-            },
-            {
-                "label": "SignUp",
-                "altText": "SignUp",
-                "url": "/",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "primary",
-                "elementId": "",
-                "type": "SignUpButton"
             }
         ],
         "styles": {
