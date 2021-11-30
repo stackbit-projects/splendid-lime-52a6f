@@ -108,7 +108,7 @@ sections:
       - type: ImageBlock
         url: /images/Lego-duplo-logo-2018-nonfree-fair-use-only.png
         altText: Duplo
-        caption: Apple
+        caption: Duplo
       - type: ImageBlock
         url: >-
           /images/png-clipart-logo-brand-lego-juniors-lego-technic-lego-technic-liebherr-text-technic.png
