@@ -1,5 +1,5 @@
 import SignupButton from '../SignupButton/SignupButton';
 
-export default SignUpForm() => {
-    
+export const SignUpForm() => {
+
 }
