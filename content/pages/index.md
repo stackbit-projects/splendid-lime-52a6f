@@ -124,7 +124,7 @@ sections:
         caption: Hidden Side
       - type: ImageBlock
         url: /images/Marvel_logo.png
-        altText: Xbox
+        altText: Marvel
         caption: Xbox
       - type: ImageBlock
         url: /images/skype.svg
