@@ -5,7 +5,7 @@ import ArrowLeft from '@stackbit/components/dist/svgs/arrow-left';
 import ArrowRight from '@stackbit/components/dist/svgs/arrow-right';
 import Cart from '@stackbit/components/dist/svgs/cart';
 import Facebook from '@stackbit/components/dist/svgs/facebook';
-import GitHub from '../../svgs/github';
+import GitHub from '@stackbit/components/dist/svgs/github';
 import Instagram from '../../svgs/instagram';
 import LinkedIn from '../../svgs/linkedin';
 import Twitter from '../../svgs/twitter';
