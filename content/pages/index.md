@@ -6,7 +6,7 @@ sections:
     elementId: homepage-hero-1
     colors: colors-a
     title: I love legos and love sharing my experiments with it
-    text: "Hey all. My name is Timofey and I'm a huge lego fan \_\U0001F601\n"
+    text: "Hey all. My name is Timofey and I'm a huge lego fan \_\U0001F601 Join me and let's explore Lego together \U0001F389\n"
     actions:
       - type: Button
         label: Sign up
