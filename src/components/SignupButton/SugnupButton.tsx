@@ -3,7 +3,7 @@ import classNames from 'classnames';
 import Link from '@stackbit/components/dist/utils/link';
 import ArrowLeft from '@stackbit/components/dist/svgs/arrow-left';
 import ArrowRight from '@stackbit/components/dist/svgs/arrow-right';
-import Cart from '../../svgs/cart';
+import Cart from '@stackbit/components/dist/svgs/cart';
 import Facebook from '../../svgs/facebook';
 import GitHub from '../../svgs/github';
 import Instagram from '../../svgs/instagram';
