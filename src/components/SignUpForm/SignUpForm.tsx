@@ -7,6 +7,6 @@ export const SignUpForm = () => {
     if (opened) {
         return null;
     } else {
-        return <SignupButton onClick={() => setOpened(true)}>
+        return <SignupButton onClick={() => setOpened(true)} />
     }
 }
