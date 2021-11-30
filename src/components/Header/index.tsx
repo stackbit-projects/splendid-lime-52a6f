@@ -44,7 +44,6 @@ function headerVariants(props) {
 }
 
 function headerVariantA(props) {
-    console.log(props);
     const primaryLinks = props.primaryLinks || [];
     const secondaryLinks = props.secondaryLinks || [];
     return (
