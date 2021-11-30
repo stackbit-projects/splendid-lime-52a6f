@@ -60,7 +60,7 @@
     "buttonPrimary": {
         "weight": "normal",
         "case": "none",
-        "letterSpacing": "wide",
+        "letterSpacing": "wider",
         "borderRadius": "full",
         "horizontalPadding": 30,
         "verticalPadding": 12,
