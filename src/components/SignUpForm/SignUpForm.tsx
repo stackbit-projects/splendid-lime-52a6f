@@ -1,1 +1,1 @@
-import SignupButton from './S'
+import SignupButton from './SignupButton/S'
