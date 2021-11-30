@@ -127,7 +127,6 @@ sections:
         altText: Marvel
         caption: Marvel
       - type: ImageBlock
-        url: /images/skype.svg
         altText: Skype
         caption: Skype
       - type: ImageBlock
