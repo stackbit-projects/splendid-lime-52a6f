@@ -8,7 +8,6 @@ registerComponents({
     // Register all Stackbit components
     ...componentsMap,
     SignupButton,
-
     SignUpForm
 
     // Override any static or dynamic component,
