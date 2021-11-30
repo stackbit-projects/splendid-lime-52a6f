@@ -6,10 +6,7 @@ sections:
     elementId: homepage-hero-1
     colors: colors-a
     title: I love legos and love sharing my experiments with it
-    text: >
-      One platform, one community, getting to the bottom line of everything
-      employment.  Figure out your benefits, practice for interviews, get
-      mentored, help peers, get helped in return.
+    text: "Hey all. My name is Timofey and I'm a huge lego fan \_\U0001F601\n"
     actions:
       - type: Button
         label: Sign up
