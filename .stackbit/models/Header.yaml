@@ -9,7 +9,7 @@ fields:
       models:
         - Button
         - Link
-        - SignUp
+        - SignupButton
     default:
       - type: Link
         label: Home
