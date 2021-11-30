@@ -1,3 +1,3 @@
 import SignupButton from '../SignupButton/SignupButton';
 
-export default 
+export default SignUpForm 
