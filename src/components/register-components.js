@@ -6,9 +6,7 @@ import SignUpButton from './SignupButton/index.tsx';
 registerComponents({
     // Register all Stackbit components
     ...SignUpButton,
-    CtaSection: dynamic(() => import('./path/to/component'))
-
-    SignUpButton: SignUpButton
+    CtaSection: dynamic(() => import('./SignupButton'))
 
     // Override any static or dynamic component,
     // or register your own dynamic component.
