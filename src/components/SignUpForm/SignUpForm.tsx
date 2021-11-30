@@ -5,6 +5,6 @@ export const SignUpForm = () => {
     const [opened, setOpened] = React.useState(false);
 
     if (opened) {
-        return <SignupButton onClick={}>
+        return <SignupButton onClick={() => setOpened(true)}>
     }
 }
