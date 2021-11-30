@@ -117,7 +117,7 @@ sections:
       - type: ImageBlock
         url: /images/download.jpeg
         altText: City
-        caption: PlayStation
+        caption: City
       - type: ImageBlock
         url: /images/gatsby.svg
         altText: Gatsby
