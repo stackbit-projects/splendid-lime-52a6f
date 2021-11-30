@@ -110,7 +110,8 @@ sections:
         altText: Apple
         caption: Apple
       - type: ImageBlock
-        url: /images/google-play.svg
+        url: >-
+          /images/png-clipart-logo-brand-lego-juniors-lego-technic-lego-technic-liebherr-text-technic.png
         altText: Google Play
         caption: Google Play
       - type: ImageBlock
