@@ -1,6 +1,6 @@
 type: object
 name: SignUpButton
-label: Button
+label: SignUpButton
 labelField: label
 fieldGroups:
   - name: styles
