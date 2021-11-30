@@ -106,7 +106,7 @@ sections:
     elementId: ''
     images:
       - type: ImageBlock
-        url: /images/apple.svg
+        url: /images/Lego-duplo-logo-2018-nonfree-fair-use-only.png
         altText: Apple
         caption: Apple
       - type: ImageBlock
