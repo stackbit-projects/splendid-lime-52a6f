@@ -11,4 +11,4 @@ const SignUpForm = () => {
     }
 }
 
-export default
+export default SignUpForm;
