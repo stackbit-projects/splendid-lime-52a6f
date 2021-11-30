@@ -2,5 +2,9 @@ import * as React from 'react';
 import SignupButton from '../SignupButton/SignupButton';
 
 export const SignUpForm = () => {
-    const opened = React.useState(false);
+    const [opened, setOpened] = React.useState(false);
+
+    if (opened) {
+        return 
+    }
 }
