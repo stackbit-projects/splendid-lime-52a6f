@@ -6,6 +6,7 @@ import SignUpButton from './SignupButton/index.tsx';
 registerComponents({
     // Register all Stackbit components
     ...componentsMap,
+    Header: Header,
     SignUpButton: SignUpButton
 
     // Override any static or dynamic component,
