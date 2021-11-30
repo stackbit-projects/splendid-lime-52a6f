@@ -165,6 +165,7 @@ function headerVariantE(props) {
 }
 
 function MobileMenu(props) {
+    console.log(props);
     const [isMenuOpen, setIsMenuOpen] = useState(false);
     const secondaryColors = props.secondaryColors || 'colors-a';
     const primaryLinks = props.primaryLinks || [];
